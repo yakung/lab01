@@ -18,10 +18,10 @@ class MyApp extends StatelessWidget {
       ),
       // home: MyHomePage(),
       routes:{
-       // "/" :(context) => FirstScreen(),
-       "/" : (context) => MycustomForm(),
-        "/second":(context) => SecondScreen(),
-        "/detail":(context) => DetailScreen(),
+       "/" :(context) => FirstScreen(),
+      //  "/" : (context) => MycustomForm(),
+        // "/second":(context) => SecondScreen(),
+        // "/detail":(context) => DetailScreen(),
         },
     );
   }
